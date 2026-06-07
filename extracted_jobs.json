@@ -1,0 +1,67 @@
+[
+  {
+    "company": "Google",
+    "role": "Senior ML Engineer",
+    "salary_min": 180000,
+    "salary_max": 220000,
+    "location": "NYC",
+    "remote": false,
+    "experience_years": 5,
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Kubernetes"
+    ]
+  },
+  {
+    "company": null,
+    "role": "React Developer",
+    "salary_min": null,
+    "salary_max": null,
+    "location": null,
+    "remote": true,
+    "experience_years": null,
+    "skills": [
+      "React",
+      "TypeScript",
+      "GraphQL"
+    ]
+  },
+  {
+    "company": "Anthropic",
+    "role": "AI Safety Researcher",
+    "salary_min": 200000,
+    "salary_max": 300000,
+    "location": "San Francisco",
+    "remote": true,
+    "experience_years": null,
+    "skills": [
+      "LLMs",
+      "RLHF",
+      "interpretability research"
+    ]
+  },
+  {
+    "company": null,
+    "role": "Data Analyst",
+    "salary_min": 70000,
+    "salary_max": 90000,
+    "location": "Chicago",
+    "remote": false,
+    "experience_years": 2,
+    "skills": [
+      "Excel",
+      "SQL"
+    ]
+  },
+  {
+    "company": null,
+    "role": "Full Stack Engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "location": null,
+    "remote": null,
+    "experience_years": null,
+    "skills": null
+  }
+]
